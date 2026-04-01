@@ -38,7 +38,7 @@ apelidos = ["Smith", "Johnson", "Williams", "Brown", "Jones", "Garcia", "Miller"
             "Powell", "Jenkins", "Perry", "Russell", "Sullivan", "Bell", "Coleman", "Butler", "Henderson",
             "Barnes", "Gonzales", "Fisher", "Vasquez", "Simmons", "Romero", "Jordan", "Patterson", "Alexander"]
 
-bot = telebot.TeleBot('8564642506:AAH9BNPm6XxqWt-2jz_Moc1FveM_BR_RyyM')
+bot = telebot.TeleBot('8205483485:AAG5QnSBtcM5EZG4BF3hARuWm-Fb9rQUUpQ')
 
 # Configuração de threads - AGORA FUNCIONA DE VERDADE!
 max_threads = 5
